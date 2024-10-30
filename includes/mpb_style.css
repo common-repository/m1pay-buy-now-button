@@ -1,0 +1,17 @@
+.form-input{
+    width: 100%;
+    margin-bottom: 16px;
+    padding: 10px;
+}
+.select-input select{
+    height: 50px;
+    background: white;
+    padding-left: 7px;
+    width: 100%;
+}
+.header-title{
+    margin-top: 35px;
+}
+.form-input.error{
+    border: 1px solid red;
+}
